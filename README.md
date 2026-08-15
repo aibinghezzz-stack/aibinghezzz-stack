@@ -16,7 +16,7 @@ Building practical AI agents, local-first workbenches, and developer infrastruct
 ## About Me
 
 我是孟圣博，也使用「冰鹤 / BingHeZAI」这个名字，一名专注于实用 AI Agent 的 14 岁独立全栈开发者与 Agent 工程师。<br>
-正在构建开源、本地优先的 **TurboFlux**，探索 Agent Harness、运行时架构、TUI、桌面端、浏览器与电脑操控、Skills、MCP 和自动化。
+正在构建开源的 **TurboFlux**，探索 Agent Harness、运行时架构、TUI、桌面端、浏览器与电脑操控、Skills、MCP 和自动化。
 
 ## Featured Project
 
