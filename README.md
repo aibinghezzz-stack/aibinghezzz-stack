@@ -1,16 +1,113 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**aibinghezzz-stack/aibinghezzz-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 孟圣博 · BingHeZAI
 
-Here are some ideas to get you started:
+### 15 岁独立开发者 · Agent Engineer · Open-Source Creator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+专注于通用 Agent、Agent Harness、本地 AI 工作台与开发者工具。  
+Building practical AI agents, local-first workbenches, and developer infrastructure.
+
+[![GitHub](https://img.shields.io/badge/GitHub-aibinghezzz--stack-181717?style=flat-square&logo=github)](https://github.com/aibinghezzz-stack)
+[![Previous Account](https://img.shields.io/badge/Previous-MengShengbo-555?style=flat-square&logo=github)](https://github.com/MengShengbo)
+[![Douyin](https://img.shields.io/badge/抖音-BingHe__J-111111?style=flat-square&logo=tiktok&logoColor=white)](#find-me)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Building%20in%20Public-2ea44f?style=flat-square)](https://github.com/aibinghezzz-stack?tab=repositories)
+
+</div>
+
+## About Me
+
+我是孟圣博，也使用「冰鹤 / BingHeZAI」这个名字，一名独立全栈开发者与 Agent 工程师。目前主要研究和构建能够真正完成工作的 AI Agent，而不只是聊天界面。
+
+- 正在开发 **TurboFlux**：开源、本地优先的 Agent 工作台
+- 关注 **Agent Harness、运行时架构、上下文管理、工具调用与长任务执行**
+- 实践方向包括 **终端 TUI、Electron 桌面端、浏览器/电脑操控、Skills、MCP 与自动化**
+- 喜欢从真实问题出发，快速完成产品原型，再通过测试和架构重构把它做扎实
+- 在抖音持续分享 AI、Agent 工程与 TurboFlux 的开发过程
+
+## We're Looking for Harness Engineers
+
+> **TurboFlux 正在招募 Harness 工程师，共同构建下一代开源 Agent 工作台。**
+
+我们希望认识真正愿意深入 Agent 底层的人，当前重点方向包括：
+
+- Agent 运行时、任务编排与事件流
+- 上下文生命周期、长任务恢复与状态一致性
+- 流式输出、工具调用、可观测性与性能
+- Browser / Computer Use、MCP、Plugins 与 Skills
+- 桌面端、TUI、测试基础设施与跨平台工程
+
+不要求你什么都会。只要有扎实的工程判断、能够用证据定位问题，并愿意把复杂系统认真做对，欢迎通过 [TurboFlux Issues](https://github.com/aibinghezzz-stack/TurboFLux-Os/issues) 自我介绍并附上代表作品。
+
+## Featured Project
+
+<table>
+  <tr>
+    <td width="100%">
+      <h3><a href="https://github.com/aibinghezzz-stack/TurboFLux-Os">TurboFlux</a></h3>
+      <p><strong>开源的本地 Agent 工作台：共享内核 + 终端 TUI + Electron 桌面应用。</strong></p>
+      <p>面向真实工作执行，支持浏览器操控、电脑操控、Skills、Plugins、MCP、自动化与自带模型密钥（BYOK）。</p>
+      <p>
+        <a href="https://github.com/aibinghezzz-stack/TurboFLux-Os">
+          <img src="https://img.shields.io/github/stars/aibinghezzz-stack/TurboFLux-Os?style=flat-square&label=stars&color=f5c542" alt="TurboFlux stars">
+        </a>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="MIT License">
+      </p>
+      <p><a href="https://github.com/aibinghezzz-stack/TurboFLux-Os">Repository</a> · <a href="https://github.com/aibinghezzz-stack/TurboFLux-Os/issues">Issues & Ideas</a></p>
+    </td>
+  </tr>
+</table>
+
+## Earlier Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MengShengbo/TurboFlux">TurboFlux · Early Repository</a></h3>
+      <p>TurboFlux 的早期开发记录与 Agent/TUI 探索，项目现已迁移到新的开源仓库继续演进。</p>
+      <p><img src="https://img.shields.io/github/stars/MengShengbo/TurboFlux?style=flat-square&label=stars&color=f5c542" alt="Early TurboFlux stars"></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MengShengbo/OpenCV.Skills">OpenCV.Skills</a></h3>
+      <p>围绕计算机视觉与可复用 AI Skills 的 Python 实践项目。</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></p>
+    </td>
+  </tr>
+</table>
+
+## What I Care About
+
+```text
+Agent Runtime      → 稳定、可观察、可恢复的长任务执行
+Harness Design     → 清晰的事件流、工具边界与上下文生命周期
+Local First        → 数据、模型密钥和执行能力由用户掌控
+Real Work          → 浏览器、电脑、文件、终端与办公工作流
+Open Source        → 可复现的问题、透明的架构和高质量协作
+```
+
+## Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+
+## Let's Build
+
+我正在持续推进 TurboFlux 的开源化，也希望认识对 **Agent Harness、模型运行时、浏览器/电脑操控、MCP、Skills 与自动化** 感兴趣的开发者。
+
+如果你对这些方向有实践、想法或可复现的问题，欢迎在 [TurboFlux Issues](https://github.com/aibinghezzz-stack/TurboFLux-Os/issues) 交流。
+
+<a id="find-me"></a>
+
+## Find Me
+
+- GitHub：[@aibinghezzz-stack](https://github.com/aibinghezzz-stack)
+- Previous GitHub：[@MengShengbo](https://github.com/MengShengbo)
+- 抖音：`BingHe_J`（冰鹤）
