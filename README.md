@@ -38,24 +38,45 @@ Building practical AI agents, local-first workbenches, and developer infrastruct
 
 不要求你什么都会。只要有扎实的工程判断、能够用证据定位问题，并愿意把复杂系统认真做对，欢迎通过 [TurboFlux Issues](https://github.com/aibinghezzz-stack/TurboFLux-Os/issues) 自我介绍并附上代表作品。
 
-## Featured Project
+## Featured Projects
 
 <table>
   <tr>
-    <td width="100%">
-      <h3><a href="https://github.com/aibinghezzz-stack/TurboFLux-Os">TurboFlux</a></h3>
-      <p><strong>开源的本地 Agent 工作台：共享内核 + 终端 TUI + Electron 桌面应用。</strong></p>
-      <p>面向真实工作执行，支持浏览器操控、电脑操控、Skills、Plugins、MCP、自动化与自带模型密钥（BYOK）。</p>
+    <td width="220" align="center" valign="middle">
+      <a href="https://github.com/aibinghezzz-stack/TurboFLux-Os">
+        <img src="https://raw.githubusercontent.com/aibinghezzz-stack/aibinghezzz-stack/main/assets/turboflux-app-icon.png" width="160" alt="TurboFlux">
+      </a>
+    </td>
+    <td valign="top">
+      <h2><a href="https://github.com/aibinghezzz-stack/TurboFLux-Os">TurboFlux</a></h2>
+      <p><strong>Open-source local Agent workbench.</strong></p>
+      <p>共享内核 + 终端 TUI + Electron 桌面应用，面向真实工作执行，支持浏览器操控、电脑操控、Skills、Plugins、MCP、自动化与 BYOK。</p>
       <p>
-        <a href="https://github.com/aibinghezzz-stack/TurboFLux-Os">
-          <img src="https://img.shields.io/github/stars/aibinghezzz-stack/TurboFLux-Os?style=flat-square&label=stars&color=f5c542" alt="TurboFlux stars">
-        </a>
+        <a href="https://github.com/aibinghezzz-stack/TurboFLux-Os"><img src="https://img.shields.io/github/stars/aibinghezzz-stack/TurboFLux-Os?style=flat-square&label=stars&color=f5c542" alt="TurboFlux stars"></a>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
         <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-        <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="MIT License">
+        <img src="https://img.shields.io/badge/MIT-blue?style=flat-square" alt="MIT">
       </p>
-      <p><a href="https://github.com/aibinghezzz-stack/TurboFLux-Os">Repository</a> · <a href="https://github.com/aibinghezzz-stack/TurboFLux-Os/issues">Issues & Ideas</a></p>
+      <p><a href="https://github.com/aibinghezzz-stack/TurboFLux-Os">Repo</a> · <a href="https://github.com/aibinghezzz-stack/TurboFLux-Os/issues">Issues</a> · <a href="https://github.com/aibinghezzz-stack/TurboFLux-Os#readme">Docs</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="220" align="center" valign="middle">
+      <a href="https://github.com/aibinghezzz-stack/deepseek-harness-macos">
+        <img src="https://raw.githubusercontent.com/aibinghezzz-stack/deepseek-harness-macos/main/Resources/DeepSeekHarnessIcon.png" width="160" alt="DeepSeek Harness macOS">
+      </a>
+    </td>
+    <td valign="top">
+      <h2><a href="https://github.com/aibinghezzz-stack/deepseek-harness-macos">DeepSeek Harness macOS</a></h2>
+      <p><strong>Native macOS desktop wrapper for DeepSeek Harness.</strong></p>
+      <p>使用 Swift + WebKit 将 DeepSeek Harness 封装为原生 macOS 桌面应用，提供更直接的本地使用体验。</p>
+      <p>
+        <a href="https://github.com/aibinghezzz-stack/deepseek-harness-macos"><img src="https://img.shields.io/github/stars/aibinghezzz-stack/deepseek-harness-macos?style=flat-square&label=stars&color=f5c542" alt="DeepSeek Harness macOS stars"></a>
+        <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift">
+        <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS">
+        <img src="https://img.shields.io/badge/WebKit-2C68F6?style=flat-square&logo=safari&logoColor=white" alt="WebKit">
+      </p>
+      <p><a href="https://github.com/aibinghezzz-stack/deepseek-harness-macos">Repo</a> · <a href="https://github.com/aibinghezzz-stack/deepseek-harness-macos#readme">README</a></p>
     </td>
   </tr>
 </table>
