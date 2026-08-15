@@ -2,13 +2,12 @@
 
 # 孟圣博 · BingHeZAI
 
-### 15 岁独立开发者 · Agent Engineer · Open-Source Creator
+### 14 岁独立开发者 · Agent Engineer · Open-Source Creator
 
 专注于通用 Agent、Agent Harness、本地 AI 工作台与开发者工具。  
 Building practical AI agents, local-first workbenches, and developer infrastructure.
 
 [![GitHub](https://img.shields.io/badge/GitHub-aibinghezzz--stack-181717?style=flat-square&logo=github)](https://github.com/aibinghezzz-stack)
-[![Previous Account](https://img.shields.io/badge/Previous-MengShengbo-555?style=flat-square&logo=github)](https://github.com/MengShengbo)
 [![Douyin](https://img.shields.io/badge/抖音-BingHe__J-111111?style=flat-square&logo=tiktok&logoColor=white)](#find-me)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Building%20in%20Public-2ea44f?style=flat-square)](https://github.com/aibinghezzz-stack?tab=repositories)
 
@@ -81,23 +80,6 @@ Building practical AI agents, local-first workbenches, and developer infrastruct
   </tr>
 </table>
 
-## Earlier Work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/MengShengbo/TurboFlux">TurboFlux · Early Repository</a></h3>
-      <p>TurboFlux 的早期开发记录与 Agent/TUI 探索，项目现已迁移到新的开源仓库继续演进。</p>
-      <p><img src="https://img.shields.io/github/stars/MengShengbo/TurboFlux?style=flat-square&label=stars&color=f5c542" alt="Early TurboFlux stars"></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/MengShengbo/OpenCV.Skills">OpenCV.Skills</a></h3>
-      <p>围绕计算机视觉与可复用 AI Skills 的 Python 实践项目。</p>
-      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></p>
-    </td>
-  </tr>
-</table>
-
 ## What I Care About
 
 ```text
@@ -130,5 +112,4 @@ Open Source        → 可复现的问题、透明的架构和高质量协作
 ## Find Me
 
 - GitHub：[@aibinghezzz-stack](https://github.com/aibinghezzz-stack)
-- Previous GitHub：[@MengShengbo](https://github.com/MengShengbo)
 - 抖音：`BingHe_J`（冰鹤）
