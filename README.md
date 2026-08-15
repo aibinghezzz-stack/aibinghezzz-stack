@@ -15,7 +15,7 @@ Building practical AI agents, local-first workbenches, and developer infrastruct
 ## About Me
 
 I'm Shengbo Meng, also known as BingHeZAI, a 14-year-old independent full-stack developer and Agent engineer focused on practical AI agents.<br>
-I'm building **TurboFlux**, an open-source, local-first Agent workbench spanning harness architecture, runtimes, TUI, desktop, browser and computer use, Skills, MCP, and automation.
+I'm building **TurboFlux**, an open-source Agent workbench spanning harness architecture, runtimes, TUI, desktop, browser and computer use, Skills, MCP, and automation.
 
 ## Featured Project
 
