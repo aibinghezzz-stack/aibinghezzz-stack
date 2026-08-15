@@ -23,21 +23,7 @@ Building practical AI agents, local-first workbenches, and developer infrastruct
 - 喜欢从真实问题出发，快速完成产品原型，再通过测试和架构重构把它做扎实
 - 在抖音持续分享 AI、Agent 工程与 TurboFlux 的开发过程
 
-## We're Looking for Harness Engineers
-
-> **TurboFlux 正在招募 Harness 工程师，共同构建下一代开源 Agent 工作台。**
-
-我们希望认识真正愿意深入 Agent 底层的人，当前重点方向包括：
-
-- Agent 运行时、任务编排与事件流
-- 上下文生命周期、长任务恢复与状态一致性
-- 流式输出、工具调用、可观测性与性能
-- Browser / Computer Use、MCP、Plugins 与 Skills
-- 桌面端、TUI、测试基础设施与跨平台工程
-
-不要求你什么都会。只要有扎实的工程判断、能够用证据定位问题，并愿意把复杂系统认真做对，欢迎通过 [TurboFlux Issues](https://github.com/aibinghezzz-stack/TurboFLux-Os/issues) 自我介绍并附上代表作品。
-
-## Featured Projects
+## Featured Project
 
 <table>
   <tr>
@@ -59,26 +45,21 @@ Building practical AI agents, local-first workbenches, and developer infrastruct
       <p><a href="https://github.com/aibinghezzz-stack/TurboFLux-Os">Repo</a> · <a href="https://github.com/aibinghezzz-stack/TurboFLux-Os/issues">Issues</a> · <a href="https://github.com/aibinghezzz-stack/TurboFLux-Os#readme">Docs</a></p>
     </td>
   </tr>
-  <tr>
-    <td width="220" align="center" valign="middle">
-      <a href="https://github.com/aibinghezzz-stack/deepseek-harness-macos">
-        <img src="https://raw.githubusercontent.com/aibinghezzz-stack/deepseek-harness-macos/main/Resources/DeepSeekHarnessIcon.png" width="160" alt="DeepSeek Harness macOS">
-      </a>
-    </td>
-    <td valign="top">
-      <h2><a href="https://github.com/aibinghezzz-stack/deepseek-harness-macos">DeepSeek Harness macOS</a></h2>
-      <p><strong>Native macOS desktop wrapper for DeepSeek Harness.</strong></p>
-      <p>使用 Swift + WebKit 将 DeepSeek Harness 封装为原生 macOS 桌面应用，提供更直接的本地使用体验。</p>
-      <p>
-        <a href="https://github.com/aibinghezzz-stack/deepseek-harness-macos"><img src="https://img.shields.io/github/stars/aibinghezzz-stack/deepseek-harness-macos?style=flat-square&label=stars&color=f5c542" alt="DeepSeek Harness macOS stars"></a>
-        <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift">
-        <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS">
-        <img src="https://img.shields.io/badge/WebKit-2C68F6?style=flat-square&logo=safari&logoColor=white" alt="WebKit">
-      </p>
-      <p><a href="https://github.com/aibinghezzz-stack/deepseek-harness-macos">Repo</a> · <a href="https://github.com/aibinghezzz-stack/deepseek-harness-macos#readme">README</a></p>
-    </td>
-  </tr>
 </table>
+
+## We're Looking for Harness Engineers
+
+> **TurboFlux 正在招募 Harness 工程师，共同构建下一代开源 Agent 工作台。**
+
+我们希望认识真正愿意深入 Agent 底层的人，当前重点方向包括：
+
+- Agent 运行时、任务编排与事件流
+- 上下文生命周期、长任务恢复与状态一致性
+- 流式输出、工具调用、可观测性与性能
+- Browser / Computer Use、MCP、Plugins 与 Skills
+- 桌面端、TUI、测试基础设施与跨平台工程
+
+不要求你什么都会。只要有扎实的工程判断、能够用证据定位问题，并愿意把复杂系统认真做对，欢迎通过 [TurboFlux Issues](https://github.com/aibinghezzz-stack/TurboFLux-Os/issues) 自我介绍并附上代表作品。
 
 ## What I Care About
 
